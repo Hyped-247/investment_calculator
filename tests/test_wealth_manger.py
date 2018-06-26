@@ -2,8 +2,10 @@ import unittest
 from wealth_manger import Calculator
 
 """
-In this file there are four test classes: TestingValueSmall, TestingValueMedium, and TestingValueLarge. 
+In this file there are four test classes: TestingBasic, TestingValueSmall, TestingValueMedium, and TestingValueLarge. 
 Each class is going to test different features of the program to make sure that it is working correctly. 
+
+The TestingBasic class is going to make sure that the basic functionally of the program is working. 
 
 The TestingValueSmall class is going to make sure that there are no bugs when the yearly savings is lower than
 how much each apt cost. 
