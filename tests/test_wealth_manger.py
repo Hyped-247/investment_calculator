@@ -1,6 +1,3 @@
-import unittest
-from wealth_manger import Calculator
-
 """
 In this file there are four test classes: TestingBasic, TestingValueSmall, TestingValueMedium, and TestingValueLarge. 
 Each class is going to test different features of the program to make sure that it is working correctly. 
@@ -19,6 +16,9 @@ how much each apt cost.
 The code has not be tested. The numbers (that is, the values passed into the constructor) 
 need to change before testing. 
 """
+import unittest
+from wealth_manger import Calculator
+
 
 
 class TestingBasic(unittest.TestCase):
