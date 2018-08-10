@@ -19,7 +19,7 @@ class Calculator:
             self._answer = dict()
             self._calculate()
         else:
-            raise TypeError("Make sure that the year input is an int")
+            raise TypeError("Make sure that the year input is an integer")
 
     def _calculate(self):
         apt_number_owned = 0
