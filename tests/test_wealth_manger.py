@@ -1,21 +1,3 @@
-"""
-In this file there are four test classes: TestingBasic, TestingValueSmall, TestingValueMedium, and TestingValueLarge. 
-Each class is going to test different features of the program to make sure that it is working correctly. 
-
-The TestingBasic class is going to make sure that the basic functionally of the program is working. 
-
-The TestingValueSmall class is going to make sure that there are no bugs when the yearly savings is lower than
-how much each apt cost. 
-
-The TestingValueMedium class is going to make sure that there are no bugs when the yearly savings is = to
-how much each apt cost. 
-
-The TestingValueLarge class is going to make sure that there are no bugs when the yearly savings is grater than
-how much each apt cost.
-
-The code has not be tested. The numbers(that is, the values passed into the constructor) 
-need to change before testing. 
-"""
 import unittest
 from wealth_manger import Calculator
 
