@@ -71,6 +71,3 @@ class Calculator:
               .format(self._passive_income_desired_yearly, self._starting_year - self._years_needed))
         print("You have to invest ${0} every year ".format(self._yearly_savings))
         print("")
-
-
-
