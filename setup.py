@@ -10,7 +10,7 @@ setuptools.setup(
 	author_email="myeamil@gmail.com",
 	description="Here is my python code does.",
 	long_description=long_description,
-	url="mygithub account.",
+	url="https://github.com/Hyped-247/investment_calculator.git",
 	packages=setuptools.find_packages(),
 	classifiers=[
 		"Programming Language :: Python :: 3",
